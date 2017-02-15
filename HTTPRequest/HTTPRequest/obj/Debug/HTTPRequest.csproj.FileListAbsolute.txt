@@ -1,0 +1,5 @@
+D:\convergeacademy.visualstudio.com\convergeacademydemoprojects\Main\HTTPRequest\HTTPRequest\bin\HTTPRequest.dll.config
+D:\convergeacademy.visualstudio.com\convergeacademydemoprojects\Main\HTTPRequest\HTTPRequest\bin\HTTPRequest.dll
+D:\convergeacademy.visualstudio.com\convergeacademydemoprojects\Main\HTTPRequest\HTTPRequest\bin\HTTPRequest.pdb
+D:\convergeacademy.visualstudio.com\convergeacademydemoprojects\Main\HTTPRequest\HTTPRequest\obj\Debug\HTTPRequest.dll
+D:\convergeacademy.visualstudio.com\convergeacademydemoprojects\Main\HTTPRequest\HTTPRequest\obj\Debug\HTTPRequest.pdb
