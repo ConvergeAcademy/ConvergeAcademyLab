@@ -1,0 +1,12 @@
+D:\GitHub\ConvergeAcademyLab\ConvergeMusicStore\TestProject\bin\Debug\TestProject.exe
+D:\GitHub\ConvergeAcademyLab\ConvergeMusicStore\TestProject\bin\Debug\TestProject.pdb
+D:\GitHub\ConvergeAcademyLab\ConvergeMusicStore\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+D:\GitHub\ConvergeAcademyLab\ConvergeMusicStore\TestProject\obj\Debug\TestProject.exe
+D:\GitHub\ConvergeAcademyLab\ConvergeMusicStore\TestProject\obj\Debug\TestProject.pdb
+D:\GitHub\ConvergeAcademyLab\ConvergeMusicStore\TestProject\bin\Debug\TestProject.exe.config
+D:\GitHub\ConvergeAcademyLab\ConvergeMusicStore\TestProject\bin\Debug\ConvergeMusicStoreDAL.dll
+D:\GitHub\ConvergeAcademyLab\ConvergeMusicStore\TestProject\bin\Debug\EntityFramework.dll
+D:\GitHub\ConvergeAcademyLab\ConvergeMusicStore\TestProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\ConvergeAcademyLab\ConvergeMusicStore\TestProject\bin\Debug\ConvergeMusicStoreDAL.pdb
+D:\GitHub\ConvergeAcademyLab\ConvergeMusicStore\TestProject\bin\Debug\EntityFramework.xml
+D:\GitHub\ConvergeAcademyLab\ConvergeMusicStore\TestProject\bin\Debug\EntityFramework.SqlServer.xml

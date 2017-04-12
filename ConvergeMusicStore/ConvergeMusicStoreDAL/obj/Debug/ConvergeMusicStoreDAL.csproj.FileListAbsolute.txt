@@ -1,0 +1,9 @@
+D:\GitHub\ConvergeAcademyLab\ConvergeMusicStore\ConvergeMusicStoreDAL\bin\Debug\ConvergeMusicStoreDAL.dll.config
+D:\GitHub\ConvergeAcademyLab\ConvergeMusicStore\ConvergeMusicStoreDAL\bin\Debug\ConvergeMusicStoreDAL.dll
+D:\GitHub\ConvergeAcademyLab\ConvergeMusicStore\ConvergeMusicStoreDAL\bin\Debug\ConvergeMusicStoreDAL.pdb
+D:\GitHub\ConvergeAcademyLab\ConvergeMusicStore\ConvergeMusicStoreDAL\bin\Debug\EntityFramework.dll
+D:\GitHub\ConvergeAcademyLab\ConvergeMusicStore\ConvergeMusicStoreDAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\ConvergeAcademyLab\ConvergeMusicStore\ConvergeMusicStoreDAL\bin\Debug\EntityFramework.xml
+D:\GitHub\ConvergeAcademyLab\ConvergeMusicStore\ConvergeMusicStoreDAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\ConvergeAcademyLab\ConvergeMusicStore\ConvergeMusicStoreDAL\obj\Debug\ConvergeMusicStoreDAL.dll
+D:\GitHub\ConvergeAcademyLab\ConvergeMusicStore\ConvergeMusicStoreDAL\obj\Debug\ConvergeMusicStoreDAL.pdb
